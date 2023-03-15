@@ -1,14 +1,23 @@
 body {
-    display: grid;
-    place-content: center;
+    align-items: center;
     color: lightgreen;
-    font-size: 10px;
+    font-size: 16px;
+    margin:0;
+    padding:0;
 }
-
+#cabecera{
+    background-color: plum;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    border-radius: 4px;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+    color: turquoise;
+    font-size: 16px;
+}
 #container {
     width: 70%;
-    padding: 1em;
-    display:flex;
+    padding: 0;
     text-align: left;
     border: 1px solid coral;
     margin: auto;
@@ -16,5 +25,9 @@ body {
 
 #container h1{
     font-size: 20px;
+}
+#post {
+   padding:1em;
+
 }
 
