@@ -3,6 +3,7 @@ body {
     place-content: center;
     color: lightgreen;
     font-size: 10px;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 #container {
