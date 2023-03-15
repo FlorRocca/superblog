@@ -1,6 +1,20 @@
 body {
     display: grid;
     place-content: center;
-    color:blue;
+    color: lightgreen;
     font-size: 10px;
 }
+
+#container {
+    width: 70%;
+    padding: 1em;
+    display:flex;
+    text-align: left;
+    border: 1px solid coral;
+    margin: auto;
+}
+
+#container h1{
+    font-size: 20px;
+}
+
