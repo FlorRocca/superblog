@@ -4,5 +4,7 @@ Para aprender todo lo relativo a lineas de comando en Git, todo sobre la herrami
 
 
 *credo por el increible Platzi team
+
+*Incluye ejemplos en Windows, linux y Mac
 > Nunca pares de aprender - 
 :fa-heart: :fa-heart: :fa-heart:
